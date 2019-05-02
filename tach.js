@@ -1,0 +1,8 @@
+	
+
+
+	function ShowMessage()
+		 {
+			alert ("XinChao !")
+		};
+	
